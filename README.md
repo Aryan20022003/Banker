@@ -13,3 +13,11 @@ Some freeUser account
 -account --> jd password 2222
 -account --> stw password 3333
 
+-js concept Used in making this project
+-DOM manupulation
+-Manupulation of array
+-Map creation and Manupulation
+-CSS property implimentation
+-functional programming Language use
+-Call back function
+-and main function of other data structure.

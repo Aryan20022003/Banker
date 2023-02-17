@@ -1,23 +1,20 @@
-# Banker
+#Banker App
 
-This is banker app where I implement js logic to use web app
--following features has been implemnented
--User login using Map
--add the new transation data
--transfer of fund .
--closing of account
+Welcome to the Banker App! I created this web app to simulate a banking environment and provide an easy way to manage transactions.
 
-Some freeUser account
--account --> js password 1111
--account --> ss password 4444
--account --> jd password 2222
--account --> stw password 3333
+In building this app, I utilized several JavaScript concepts, including DOM manipulation, array manipulation, Map creation, and manipulation, as well as the implementation of CSS properties. I also made use of functional programming language concepts, such as callback functions and main functions of other data structures.
 
--js concept Used in making this project
--DOM manupulation
--Manupulation of array
--Map creation and Manupulation
--CSS property implimentation
--functional programming Language use
--Call back function
--and main function of other data structure.
+It's worth noting that the HTML and CSS used in this app were provided by my mentor. I focused on implementing the JavaScript functionality and logic to make the app work.
+
+I've implemented several key features in this app, including user login using a Map, the ability to add new transaction data, fund transfers, and account closure.
+
+To make things easier, I've created some free user accounts that you can use to explore the app. Here are the login details for each account:
+
+Account --> js, Password: 1111
+Account --> ss, Password: 4444
+Account --> jd, Password: 2222
+Account --> stw, Password: 3333
+I hope you enjoy using this Banker App and find it a helpful tool for managing your transactions. Please let me know if you have any feedback or suggestions for future updates. Thank you for using Banker App!
+
+
+
